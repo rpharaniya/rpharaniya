@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Raj Haraniya aka s3ria1</h1>
-<h3 align="center">Cyber Security Enthusiast, Python Developer and WordPress Designer</h3>
+<h3 align="center">Cyber Security Researcher, Python Enthusiast and WordPress Developer</h3>
 
 <p align="left"> <a href="https://twitter.com/_s3ria1_" target="blank"><img src="https://img.shields.io/twitter/follow/_s3ria1_?logo=twitter&style=for-the-badge" alt="_s3ria1_" /></a> </p>
 
 - 🌱 I’m currently learning **Python, Django, ElasticSearch, MongoDB, React**
 
 - 👨‍💻 All of my projects are available at [rajharaniya.me](rajharaniya.me)
-
-- 💬 Ask me about **Python, WordPress, CSS**
 
 - 📫 How to reach me **rpharaniya@tutamail.com**
 
